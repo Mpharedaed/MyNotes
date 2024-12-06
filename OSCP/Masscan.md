@@ -1,4 +1,4 @@
-
+i am the devil
 Used to scan fast all the ports but note that its not as detailed as NMAP.
 
 ![[Pasted image 20241203041415.png]]
